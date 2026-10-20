@@ -1,0 +1,194 @@
+{
+  "courtyard-tent": {
+    "width": 2400,
+    "height": 1350
+  },
+  "drone-amphi-umbrellas": {
+    "width": 2268,
+    "height": 4032
+  },
+  "drone-amphi-wide": {
+    "width": 2268,
+    "height": 4032
+  },
+  "drone-campus-topdown": {
+    "width": 2268,
+    "height": 4032
+  },
+  "drone-stage-umbrella": {
+    "width": 2268,
+    "height": 4032
+  },
+  "drone-tent-interior": {
+    "width": 2268,
+    "height": 4032
+  },
+  "drone-atolye-interior": {
+    "width": 2268,
+    "height": 4032
+  },
+  "atolye-interior-1": {
+    "width": 2400,
+    "height": 1350
+  },
+  "atolye-interior-2": {
+    "width": 2400,
+    "height": 1350
+  },
+  "atolye-interior-3": {
+    "width": 2400,
+    "height": 1350
+  },
+  "atolye-interior-4": {
+    "width": 2400,
+    "height": 1350
+  },
+  "live-vocalist": {
+    "width": 2400,
+    "height": 1603
+  },
+  "live-duo": {
+    "width": 2400,
+    "height": 3593
+  },
+  "aerial-campus-top": {
+    "width": 2268,
+    "height": 4032
+  },
+  "aerial-campus-arc": {
+    "width": 2268,
+    "height": 4032
+  },
+  "amphitheater-screen-dusk": {
+    "width": 2268,
+    "height": 4032
+  },
+  "amphitheater-screen": {
+    "width": 2268,
+    "height": 4032
+  },
+  "aerial-night": {
+    "width": 2268,
+    "height": 4032
+  },
+  "terrace-umbrella-dusk": {
+    "width": 2268,
+    "height": 4032
+  },
+  "tent-night": {
+    "width": 2268,
+    "height": 4032
+  },
+  "tent-piano-night": {
+    "width": 2268,
+    "height": 4032
+  },
+  "aerial-dance-floor": {
+    "width": 2160,
+    "height": 3840
+  },
+  "aerial-lawn-umbrellas": {
+    "width": 2160,
+    "height": 3840
+  },
+  "dance-1": {
+    "width": 2400,
+    "height": 3593
+  },
+  "food-breakfast-honey": {
+    "width": 2400,
+    "height": 3600
+  },
+  "food-breakfast-table": {
+    "width": 2400,
+    "height": 3600
+  },
+  "food-plate-juice": {
+    "width": 2400,
+    "height": 3600
+  },
+  "food-chicken-fries": {
+    "width": 2400,
+    "height": 3600
+  },
+  "food-chicken-plate": {
+    "width": 2400,
+    "height": 3600
+  },
+  "food-napkin-logo": {
+    "width": 2400,
+    "height": 3600
+  },
+  "food-salad-bowl": {
+    "width": 2400,
+    "height": 3600
+  },
+  "food-schnitzel": {
+    "width": 2400,
+    "height": 3600
+  },
+  "corp-long-tables": {
+    "width": 1920,
+    "height": 930
+  },
+  "corp-tent-audience": {
+    "width": 1920,
+    "height": 930
+  },
+  "corp-buffet-line": {
+    "width": 1920,
+    "height": 930
+  },
+  "game-board": {
+    "width": 1920,
+    "height": 930
+  },
+  "game-rope": {
+    "width": 1920,
+    "height": 930
+  },
+  "game-basketball": {
+    "width": 1920,
+    "height": 930
+  },
+  "game-survivor": {
+    "width": 1920,
+    "height": 930
+  },
+  "davet-flower-arch": {
+    "width": 1350,
+    "height": 2400
+  },
+  "davet-bouquet": {
+    "width": 1350,
+    "height": 2400
+  },
+  "davet-table-sky": {
+    "width": 1350,
+    "height": 2400
+  },
+  "davet-table-long": {
+    "width": 1350,
+    "height": 2400
+  },
+  "davet-garden-aerial": {
+    "width": 1350,
+    "height": 2400
+  },
+  "tent-lounge": {
+    "width": 1350,
+    "height": 2400
+  },
+  "food-wraps": {
+    "width": 1350,
+    "height": 2400
+  },
+  "food-sliders": {
+    "width": 1350,
+    "height": 2400
+  },
+  "food-croquettes": {
+    "width": 1350,
+    "height": 2400
+  }
+}
