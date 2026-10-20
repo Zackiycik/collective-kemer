@@ -106,5 +106,6 @@ scripts/        medya dönüştürme scriptleri
 - **Kaldırılanlar:** Caz/jazz içerikleri tüm sitede kaldırıldı.
 - **Görseller:** Müşteri logosu taşıyan kareler yayına alınmadan önce logosuz kırpılır. Fotoğraflar WebP, `content/photos.json` boyut manifestidir; yeni fotoğraf eklerken `content/photos.ts` içine alt metin de eklenir.
 - **Favicon:** Mekân logosu (`app/favicon.ico`, `app/icon.png`, `app/apple-icon.png`).
+- **Yayın:** `main` dalına yapılan her push, Vercel'de (`collective-kemer-demo`) otomatik olarak yayınlanır; depo: github.com/Zackiycik/collective-kemer.
 - **Depo kapsamı:** Bu depo yalnızca siteyi çalıştıran dosyaları içerir. Ham medya (`raw-media/`), dönüştürme betikleri ve yerel araç dosyaları yerelde tutulur, depoya alınmaz.
 - **Kalan işler:** JSON-LD, OG görselleri, gerçek etkinlik tarihleri.
