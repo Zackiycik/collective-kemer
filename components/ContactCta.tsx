@@ -12,8 +12,8 @@ export function ContactCta({
         <div className="mx-auto max-w-3xl text-center">
           <SectionTitle>{title}</SectionTitle>
           <p className="mx-auto mt-6 max-w-xl text-base leading-relaxed text-ink/75">
-            Tarih, katılımcı sayısı ve konseptinizi bize yazın; size uygun alan
-            ve servis kurgusunu birlikte oluşturalım.
+            Tarih, katılımcı sayısı ve konseptinizi bize yazın; hayalindeki
+            etkinliği birlikte tasarlayalım!
           </p>
           <div className="mt-10 flex flex-col items-center justify-center gap-4 sm:flex-row">
             <ButtonLink href={`mailto:${site.email}`}>{site.email}</ButtonLink>

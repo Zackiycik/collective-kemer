@@ -10,9 +10,7 @@ export type Photo = {
 };
 
 const ALT: Record<PhotoName, string> = {
-  "courtyard-tent": "Çadır Meydan ve avlu, ağaçların arasında ışık girlandları",
   "live-vocalist": "Mikrofonda şarkı söyleyen müzisyen",
-  "live-duo": "Çadır Meydan'da sahne alan müzisyen ikilisi",
   "aerial-campus-top": "Collective Kemer'in ormanın içindeki kuşbakışı görünümü",
   "aerial-campus-arc": "Amfi ve yapıların havadan görünümü",
   "amphitheater-screen-dusk": "Gün batımında açık hava sineması amfisi",
@@ -54,7 +52,6 @@ const ALT: Record<PhotoName, string> = {
   "davet-table-sky": "Açık havada krem örtülü, mumlu ve çiçekli uzun davet masası",
   "davet-table-long": "Ahşap sandalyelerle dizilmiş çiçekli uzun davet masası",
   "davet-garden-aerial": "Davet bahçesinin havadan görünümü",
-  "tent-lounge": "Turuncu koltuklu, ahşap tavanlı oturma alanı",
   "food-wraps": "Tabakta sıralanmış tavuklu mini dürümler",
   "food-sliders": "Kürdanlı mini hamburger servisi",
   "food-croquettes": "Cam servis tepsisinde mini kroket",

@@ -126,13 +126,10 @@ export const venues: Venue[] = [
     coverPosition: "50% 42%",
     heroVideo: { src: "/media/video/cadir-hero.mp4", poster: "/media/video/cadir-hero.jpg" },
     gallery: [
-      photo("courtyard-tent"),
       photo("drone-tent-interior"),
       photo("corp-tent-audience"),
-      photo("tent-lounge"),
       photo("tent-piano-night"),
       photo("tent-night"),
-      photo("live-duo"),
       photo("live-vocalist"),
       photo("terrace-umbrella-dusk"),
     ],
@@ -237,8 +234,8 @@ export type EventItem = {
 // Liste sırası sitedeki sıradır: kurumsal, davet, sinema.
 export const events: EventItem[] = [
   {
-    slug: "kurumsal-bulusma",
-    title: "Kurumsal Buluşma",
+    slug: "kurumsal-toplanti",
+    title: "Kurumsal Toplantı",
     dateLabel: "Yaz 2026",
     date: "2026-08-15", // yaklaşık; yalnızca tip gereği
     category: "Kurumsal",

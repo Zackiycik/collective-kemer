@@ -17,7 +17,7 @@ export const metadata: Metadata = {
 const pillars = [
   {
     title: "Event",
-    text: "Konserlerden kurumsal buluşmalara, marka lansmanlarından açık hava sinemasına farklı ölçekte organizasyonlar.",
+    text: "Konserlerden kurumsal toplantılara, marka lansmanlarından açık hava sinemasına farklı ölçekte organizasyonlar.",
   },
   {
     title: "Workshop",
@@ -39,8 +39,8 @@ export default function AboutPage() {
       <PageHero
         title="Hakkımızda"
         kicker="Ormanın içinde bir buluşma noktası."
-        photo={photo("courtyard-tent")}
-        position="50% 35%"
+        photo={photo("aerial-campus-top")}
+        position="50% 50%"
       />
 
       <section className="py-24 md:py-36">

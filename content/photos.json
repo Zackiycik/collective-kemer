@@ -1,8 +1,4 @@
 {
-  "courtyard-tent": {
-    "width": 2400,
-    "height": 1350
-  },
   "drone-amphi-umbrellas": {
     "width": 2268,
     "height": 4032
@@ -47,10 +43,6 @@
     "width": 2400,
     "height": 1603
   },
-  "live-duo": {
-    "width": 2400,
-    "height": 3593
-  },
   "aerial-campus-top": {
     "width": 2268,
     "height": 4032
@@ -68,10 +60,6 @@
     "height": 4032
   },
   "aerial-night": {
-    "width": 2268,
-    "height": 4032
-  },
-  "terrace-umbrella-dusk": {
     "width": 2268,
     "height": 4032
   },
@@ -175,10 +163,6 @@
     "width": 1350,
     "height": 2400
   },
-  "tent-lounge": {
-    "width": 1350,
-    "height": 2400
-  },
   "food-wraps": {
     "width": 1350,
     "height": 2400
@@ -190,5 +174,9 @@
   "food-croquettes": {
     "width": 1350,
     "height": 2400
+  },
+  "terrace-umbrella-dusk": {
+    "width": 2268,
+    "height": 4032
   }
 }

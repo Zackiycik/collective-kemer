@@ -8,7 +8,7 @@ import { sortedEvents } from "@/content/site";
 export const metadata: Metadata = {
   title: "Etkinlikler",
   description:
-    "Collective Kemer'de gerçekleşen kurumsal buluşmalar, davetler ve açık hava sineması geceleri.",
+    "Collective Kemer'de gerçekleşen kurumsal toplantılar, davetler ve açık hava sineması geceleri.",
 };
 
 export default function EventsPage() {
@@ -16,7 +16,7 @@ export default function EventsPage() {
     <>
       <PageHero
         title="Etkinlikler"
-        kicker="Kurumsal buluşmalardan davetlere ve sinema gecelerine, burada yaşananlar."
+        kicker="Kurumsal toplantılardan davetlere ve sinema gecelerine, burada yaşananlar."
         photo={sortedEvents[0].cover}
         position="50% 45%"
       />
