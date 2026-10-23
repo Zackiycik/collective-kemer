@@ -11,7 +11,7 @@ import { venues } from "@/content/site";
 export const metadata: Metadata = {
   title: "Hakkımızda",
   description:
-    "Collective Kemer; Kent Ormanı'nın içinde etkinlik, workshop, toplantı ve food market deneyimi sunan çok amaçlı bir buluşma alanı.",
+    "Collective Kemer; Kent Ormanı'nın içinde etkinlik, toplantı, workshop ve food market deneyimi sunan çok amaçlı bir buluşma alanı.",
 };
 
 const pillars = [

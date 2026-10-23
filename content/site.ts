@@ -3,7 +3,7 @@ import { photo, type Photo } from "./photos";
 export const site = {
   name: "Collective Kemer",
   url: "https://www.collectivekemer.com",
-  tagline: "Event · Workshop · Meeting · Food Market",
+  tagline: "Event · Meeting · Workshop · Food Market",
   email: "satis@collectivekemer.com",
   instagram: "https://www.instagram.com/collectivekemer/",
   directions: "https://share.google/w8SYP1VFcFNv8Wsvb",
@@ -100,11 +100,11 @@ export const venues: Venue[] = [
       "Müzik performansları, söyleşiler, marka lansmanları, şirket buluşmaları, toplu yemek organizasyonları ve özel davetler için tasarlanmış kapalı etkinlik alanı.",
       "Açık büfe servis düzenine uygun altyapısı ve esnek yerleşim planıyla farklı konseptlere kolayca adapte olur. Projeksiyon, ses sistemi ve servis altyapısıyla kurumsal toplantılar, eğitimler, workshoplar, networking etkinlikleri ve gastronomi deneyimleri için profesyonel kullanım imkânı sunar.",
     ],
-    headline: { value: "300", unit: "kişiye kadar" },
+    headline: { value: "350", unit: "kişiye kadar" },
     capacities: [
-      { label: "Tiyatro düzeni", value: "160 kişi" },
-      { label: "Sınıf düzeni", value: "140 kişi" },
-      { label: "Kokteyl düzeni", value: "300 kişi" },
+      { label: "Tiyatro düzeni", value: "280 kişi" },
+      { label: "Sınıf düzeni", value: "200 kişi" },
+      { label: "Kokteyl düzeni", value: "350 kişi" },
     ],
     features: [
       "Projeksiyon",
@@ -244,7 +244,7 @@ export const events: EventItem[] = [
     category: "Kurumsal",
     venue: "Çadır Meydan & Collective Sahne",
     summary:
-      "Çadır Meydan'da başlayan toplantının ardından ormanın içinde uzun masalarda yemek, açık büfe servisi ve çimenlik alanda ekip oyunları.",
+      "Çadır Meydan'da başlayan kurumsal toplantının ardından ormanın içinde uzun masalarda yemek, açık büfe servisi ve çimenlik alanda ekip oyunları.",
     cover: photo("corp-long-tables"),
     gallery: [
       photo("corp-tent-audience"),

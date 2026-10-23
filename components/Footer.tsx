@@ -11,7 +11,7 @@ export function Footer() {
         <div className="md:col-span-5">
           <Logo tone="dark" className="text-2xl" />
           <p className="mt-8 max-w-sm text-sm leading-relaxed text-cream/80">
-            Kent Ormanı&apos;nın içinde; etkinlik, workshop, toplantı ve gastronomi
+            Kent Ormanı&apos;nın içinde; etkinlik, toplantı, workshop ve gastronomi
             deneyimi için doğayla iç içe bir buluşma noktası.
           </p>
         </div>

@@ -13,7 +13,7 @@ export const metadata: Metadata = {
     template: "%s | Collective Kemer",
   },
   description:
-    "Kent Ormanı'nın içinde, doğayla iç içe etkinlik, workshop, toplantı ve gastronomi deneyimi alanı.",
+    "Kent Ormanı'nın içinde, doğayla iç içe etkinlik, toplantı, workshop ve gastronomi deneyimi alanı.",
 };
 
 export default function RootLayout({ children }: LayoutProps<"/">) {

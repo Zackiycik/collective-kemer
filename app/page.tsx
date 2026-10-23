@@ -30,7 +30,7 @@ export default function Home() {
             Kemer
           </h1>
           <p className="mt-6 max-w-md text-base text-cream/85 md:text-lg">
-            Ormanın içinde etkinlik, workshop, toplantı ve food market.
+            Ormanın içinde etkinlik, toplantı, workshop ve food market.
           </p>
           <div className="mt-10 flex flex-col gap-6 sm:flex-row sm:items-center sm:gap-10">
             <FilmButton
@@ -53,7 +53,7 @@ export default function Home() {
         <Container>
           <p className="mx-auto max-w-4xl text-center font-display text-[clamp(2rem,4.4vw,3.75rem)] font-light leading-[1.14] text-olive-900 [text-wrap:balance]">
             Göktürk Kent Ormanı&apos;nın içinde, doğayla iç içe bir buluşma
-            noktası. Toplantıdan konsere, workshoptan açık hava sinemasına her
+            noktası. Workshoptan konsere, toplantıdan açık hava sinemasına her
             ölçekte deneyim için.
           </p>
         </Container>
