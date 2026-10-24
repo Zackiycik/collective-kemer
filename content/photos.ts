@@ -16,7 +16,7 @@ const ALT: Record<PhotoName, string> = {
   "amphitheater-screen-dusk": "Gün batımında açık hava sineması amfisi",
   "amphitheater-screen": "Perdesi açık, izleyicilerle dolu amfi",
   "aerial-night": "Gece havadan çekilmiş ışıklı kampüs",
-  "terrace-umbrella-dusk": "Şemsiyeli teras ve ormanın üzerinde alacakaranlık",
+  "tent-interior-lounge": "Çadır Meydan'ın içi: piyano, turuncu koltuklar, şezlonglar ve ormana bakan geniş cam cepheler",
   "tent-night": "Çadır Meydan'ın gece ışıkları altındaki iç mekânı",
   "tent-piano-night": "Çadır Meydan'da piyano ve sıcak ışıklı oturma alanı",
   "atolye-interior-1": "Atölye'nin ahşap iç mekânı, uzun toplantı masası ve yeşil sandalyeler",

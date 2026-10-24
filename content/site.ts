@@ -126,12 +126,12 @@ export const venues: Venue[] = [
     coverPosition: "50% 42%",
     heroVideo: { src: "/media/video/cadir-hero.mp4", poster: "/media/video/cadir-hero.jpg" },
     gallery: [
+      photo("tent-interior-lounge"),
       photo("drone-tent-interior"),
       photo("corp-tent-audience"),
       photo("tent-piano-night"),
       photo("tent-night"),
       photo("live-vocalist"),
-      photo("terrace-umbrella-dusk"),
     ],
   },
   {
