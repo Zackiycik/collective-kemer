@@ -4,7 +4,6 @@ Göktürk Kent Ormanı'ndaki etkinlik mekânı **Collective Kemer** için tanıt
 
 - **Canlı demo:** https://collective-kemer-demo.vercel.app
 - **Teknoloji:** Next.js 16 (App Router, `cacheComponents`), React 19, Tailwind CSS 4, `motion`
-- **Planlama ve durum:** [PLAN.md](PLAN.md)
 
 ## Çalıştırma
 
